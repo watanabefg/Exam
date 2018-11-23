@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_event_detail">課題</string>
+    <string name="refresh">更新</string>
+    <string name="no_items_all">記事がありません</string>
+    <string name="loading_items_error">記事の読み込み中にエラーになりました</string>
+    <string name="loading">読み込み中</string>
+    <string name="no_item">記事がありません</string>
+    <string name="new_items">最新記事一覧</string>
+</resources>

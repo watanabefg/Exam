@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_event_detail">Exam</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_items_all">No Entries!</string>
+    <string name="loading_items_error">Error while loading entries</string>
+    <string name="loading">LOADING</string>
+    <string name="no_item">No item</string>
+    <string name="new_items">New Items</string>
+</resources>
